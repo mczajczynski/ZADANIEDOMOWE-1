@@ -7,8 +7,9 @@ public class Uczesie {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("i");
-        System.out.println("czeka mnie jeszcze");
+        System.out.print("czeka mnie jeszcze ");
         System.out.println("dużo");
+        System.out.println("a nawet wiele");
         System.out.println("pracy");
     }
 }
