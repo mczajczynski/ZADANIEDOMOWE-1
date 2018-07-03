@@ -7,6 +7,11 @@ public class Uczesie {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("Będzie git");
+        System.out.println("");
+        
+        System.out.println("Pozdrawiam");
+        System.out.print("Maciej " + "Czajczyński\n");
+
 
     }
 }
